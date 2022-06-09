@@ -1,0 +1,48 @@
+{
+    "token": "OTU4MjE5NTgxNjAyNzkxNDY0.GWR79v.dMIIglB9Sm5HGN9Cmn8DP1mmMguK_0eu5HkAFM",
+    "prefix": "//",
+    "ownerIDS": [
+        "740787584254607410"
+    ],
+    "fnbr": "GET from: https://fnbr.co",
+    "fortnitetracker": "GET from: https://fortnitetracker.com",
+    "memer_api": "GET from: https://discord.gg/Mc2FudJkgP",
+    "status": {
+        "text": "{prefix}help | on {guildcount} Servers, with {membercount} Members | Played: {songsplayed} Songs",
+        "text2": "Programin",
+        "type": "PLAYING",
+        "url": "https://onlyfraccion.com"
+    },
+    "clientsettings": {
+        "nodes": [
+            {
+                "host": "lava.link",
+                "port": 80,
+                "password": "your password"
+            }
+        ]
+    },
+    "spotify": {
+        "clientSecret": "d0f382828e90439d872ea2f8d1263579",
+        "clientID": "1134473cc10b45429828e3cf9f3c871c"
+    },
+    "settings": {
+        "COMMENT": "time_delay 0 === insta leave",
+        "leaveOnEmpty_Channel": {
+            "enabled": true,
+            "time_delay": 30000
+        },
+        "LeaveOnEmpty_Queue": {
+            "enabled": true,
+            "time_delay": 30000
+        },
+        "selfDeaf": true
+    },
+    "lyricssettings": {
+        "lyrics_finder": true,
+        "ksoft_api": {
+            "use_this_instead": true,
+            "api_key": "DISABLED"
+        }
+    }
+}
